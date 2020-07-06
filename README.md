@@ -11,10 +11,10 @@
 The project is titled **Exploratory Data Analysis on Nigerian Graduates in the Labour Market**
 
 ### Project Summary
-The project attempts to shed some light on the life of an average Nigerian graduate in the labour market. Though the data size is relatively small when compared to the population of graduates the country churns out every year, the project tries as much as possible to simulate what a big data would achieve. And, thus, while not robust enough (datasize-wise) for inference-worthy insights, the results obtainedshows interesting anecdotal evidence. 
+The project attempts to shed some light on the life of an average Nigerian graduate in the labour market. Though the data size is relatively small when compared to the population of graduates the country churns out every year, the project tries as much as possible to simulate what a big data would achieve. And, thus, while not robust enough (datasize-wise) for inference-worthy insights, the results obtained shows interesting anecdotal evidence. 
 
 ### File Description
-The data was obtained through a Google Form survey. The respondents are graduates who completed their degree within 2013–2017, recruited via email and social media, and a few offline. Find the full information on the data source [here](https://www.kaggle.com/stutern/nigerian-gradaute-report-2018).
+The data was obtained through a Google Form survey. The respondents are graduates who completed their degree within 2013�2017, recruited via email and social media, and a few offline. Find the full information on the data source [here](https://www.kaggle.com/stutern/nigerian-gradaute-report-2018).
 
 ### Installations
 To be able to replicate all the processes in the Ipython file attached, Python 3.7 should be installed with the following libraries:
